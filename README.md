@@ -1,4 +1,4 @@
-# Audio Emergency Detection System
+# Real Time Scream Detection
 
 A real-time audio classification system that detects distress sounds and sends location-based alerts via Telegram.
 
